@@ -19,4 +19,6 @@ for index, row in courses.iterrows():
     soma += row.Classificação * multiplier(row.Área_Científica)
     total += multiplier(row.Área_Científica)
 
-print("A tua média ponderada é:", soma / total)
+print("avg\t", round(soma / total, 2))
+print(round(courses.Classificação.describe(), 2))
+
