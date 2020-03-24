@@ -1,0 +1,22 @@
+[
+  {
+    "Área_Científica": "CB",
+    "Ponderação": 1
+  },
+  {
+    "Área_Científica": "IB",
+    "Ponderação": 2
+  },
+  {
+    "Área_Científica": "CC",
+    "Ponderação": 1.5
+  },
+  {
+    "Área_Científica": "QAC",
+    "Ponderação": 1
+  },
+  {
+    "Área_Científica": "CTE-EI",
+    "Ponderação": 2
+  }
+]

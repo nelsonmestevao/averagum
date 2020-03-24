@@ -1,0 +1,290 @@
+[
+  {
+    "Unidade Curricular": "Álgebra Linear EI",
+    "Área Científica": "CB",
+    "Créditos": 5,
+    "Ano": 1,
+    "Semestre": 1,
+    "Classificação": 20
+  },
+  {
+    "Unidade Curricular": "Cálculo",
+    "Área Científica": "CB",
+    "Créditos": 5,
+    "Ano": 1,
+    "Semestre": 1,
+    "Classificação": 20
+  },
+  {
+    "Unidade Curricular": "Elementos de Engenharia de Sistemas",
+    "Área Científica": "CC",
+    "Créditos": 5,
+    "Ano": 1,
+    "Semestre": 1,
+    "Classificação": 20
+  },
+  {
+    "Unidade Curricular": "Laboratórios de Informática I",
+    "Área Científica": "IB",
+    "Créditos": 5,
+    "Ano": 1,
+    "Semestre": 1,
+    "Classificação": 20
+  },
+  {
+    "Unidade Curricular": "Programação Funcional",
+    "Área Científica": "CB",
+    "Créditos": 5,
+    "Ano": 1,
+    "Semestre": 1,
+    "Classificação": 20
+  },
+  {
+    "Unidade Curricular": "Tópicos de Matemática Discreta",
+    "Área Científica": "CB",
+    "Créditos": 5,
+    "Ano": 1,
+    "Semestre": 1,
+    "Classificação": 20
+  },
+  {
+    "Unidade Curricular": "Análise",
+    "Área Científica": "CB",
+    "Créditos": 5,
+    "Ano": 1,
+    "Semestre": 2,
+    "Classificação": ""
+  },
+  {
+    "Unidade Curricular": "Laboratórios de Informática II",
+    "Área Científica": "IB",
+    "Créditos": 5,
+    "Ano": 1,
+    "Semestre": 2,
+    "Classificação": ""
+  },
+  {
+    "Unidade Curricular": "Lógica EI",
+    "Área Científica": "CB",
+    "Créditos": 5,
+    "Ano": 1,
+    "Semestre": 2,
+    "Classificação": ""
+  },
+  {
+    "Unidade Curricular": "Programação Imperativa",
+    "Área Científica": "CB",
+    "Créditos": 5,
+    "Ano": 1,
+    "Semestre": 2,
+    "Classificação": ""
+  },
+  {
+    "Unidade Curricular": "Sistemas de Computação",
+    "Área Científica": "CB",
+    "Créditos": 5,
+    "Ano": 1,
+    "Semestre": 2,
+    "Classificação": ""
+  },
+  {
+    "Unidade Curricular": "Tópicos de Física Moderna",
+    "Área Científica": "CC",
+    "Créditos": 5,
+    "Ano": 1,
+    "Semestre": 2,
+    "Classificação": ""
+  },
+  {
+    "Unidade Curricular": "Algoritmos e Complexidade",
+    "Área Científica": "CB",
+    "Créditos": 5,
+    "Ano": 2,
+    "Semestre": 1,
+    "Classificação": ""
+  },
+  {
+    "Unidade Curricular": "Arquitetura de Computadores",
+    "Área Científica": "IB",
+    "Créditos": 5,
+    "Ano": 2,
+    "Semestre": 1,
+    "Classificação": ""
+  },
+  {
+    "Unidade Curricular": "Comunicação de Dados",
+    "Área Científica": "IB",
+    "Créditos": 5,
+    "Ano": 2,
+    "Semestre": 1,
+    "Classificação": ""
+  },
+  {
+    "Unidade Curricular": "Engenharia Económica",
+    "Área Científica": "CC",
+    "Créditos": 5,
+    "Ano": 2,
+    "Semestre": 1,
+    "Classificação": ""
+  },
+  {
+    "Unidade Curricular": "Estatística Aplicada",
+    "Área Científica": "CC",
+    "Créditos": 5,
+    "Ano": 2,
+    "Semestre": 1,
+    "Classificação": ""
+  },
+  {
+    "Unidade Curricular": "Introdução aos Sistemas Dinâmicos",
+    "Área Científica": "CB",
+    "Créditos": 5,
+    "Ano": 2,
+    "Semestre": 1,
+    "Classificação": ""
+  },
+  {
+    "Unidade Curricular": "Cálculo de Programas",
+    "Área Científica": "IB",
+    "Créditos": 5,
+    "Ano": 2,
+    "Semestre": 2,
+    "Classificação": ""
+  },
+  {
+    "Unidade Curricular": "Eletromagnetismo EE",
+    "Área Científica": "CC",
+    "Créditos": 5,
+    "Ano": 2,
+    "Semestre": 2,
+    "Classificação": ""
+  },
+  {
+    "Unidade Curricular": "Laboratórios de Informática III",
+    "Área Científica": "IB",
+    "Créditos": 5,
+    "Ano": 2,
+    "Semestre": 2,
+    "Classificação": ""
+  },
+  {
+    "Unidade Curricular": "Opção UMinho",
+    "Área Científica": "QAC",
+    "Créditos": 5,
+    "Ano": 2,
+    "Semestre": 2,
+    "Classificação": ""
+  },
+  {
+    "Unidade Curricular": "Programação Orientada aos Objetos",
+    "Área Científica": "CB",
+    "Créditos": 5,
+    "Ano": 2,
+    "Semestre": 2,
+    "Classificação": ""
+  },
+  {
+    "Unidade Curricular": "Sistemas Operativos",
+    "Área Científica": "IB",
+    "Créditos": 5,
+    "Ano": 2,
+    "Semestre": 2,
+    "Classificação": ""
+  },
+  {
+    "Unidade Curricular": "Bases de Dados",
+    "Área Científica": "IB",
+    "Créditos": 5,
+    "Ano": 3,
+    "Semestre": 1,
+    "Classificação": ""
+  },
+  {
+    "Unidade Curricular": "Desenvolvimento de Sistemas de Software",
+    "Área Científica": "CTE-EI",
+    "Créditos": 5,
+    "Ano": 3,
+    "Semestre": 1,
+    "Classificação": ""
+  },
+  {
+    "Unidade Curricular": "Modelos Determinísticos de Investigação Operacional",
+    "Área Científica": "CC",
+    "Créditos": 5,
+    "Ano": 3,
+    "Semestre": 1,
+    "Classificação": ""
+  },
+  {
+    "Unidade Curricular": "Sistemas Distribuídos",
+    "Área Científica": "IB",
+    "Créditos": 5,
+    "Ano": 3,
+    "Semestre": 1,
+    "Classificação": ""
+  },
+  {
+    "Unidade Curricular": "Redes de Computadores",
+    "Área Científica": "IB",
+    "Créditos": 5,
+    "Ano": 3,
+    "Semestre": 1,
+    "Classificação": ""
+  },
+  {
+    "Unidade Curricular": "Métodos Numéricos e Otimização não Linear",
+    "Área Científica": "CC",
+    "Créditos": 5,
+    "Ano": 3,
+    "Semestre": 1,
+    "Classificação": ""
+  },
+  {
+    "Unidade Curricular": "Sistemas de Representação de Conhecimento e Raciocínio",
+    "Área Científica": "CTE-EI",
+    "Créditos": 5,
+    "Ano": 3,
+    "Semestre": 2,
+    "Classificação": ""
+  },
+  {
+    "Unidade Curricular": "Modelos Estocásticos de Investigação Operacional",
+    "Área Científica": "CC",
+    "Créditos": 5,
+    "Ano": 3,
+    "Semestre": 2,
+    "Classificação": ""
+  },
+  {
+    "Unidade Curricular": "Computação Gráfica",
+    "Área Científica": "CTE-EI",
+    "Créditos": 5,
+    "Ano": 3,
+    "Semestre": 2,
+    "Classificação": ""
+  },
+  {
+    "Unidade Curricular": "Comunicações por Computador",
+    "Área Científica": "CTE-EI",
+    "Créditos": 5,
+    "Ano": 3,
+    "Semestre": 2,
+    "Classificação": ""
+  },
+  {
+    "Unidade Curricular": "Processamento de Linguagens",
+    "Área Científica": "IB",
+    "Créditos": 5,
+    "Ano": 3,
+    "Semestre": 2,
+    "Classificação": ""
+  },
+  {
+    "Unidade Curricular": "Laboratórios de Informática IV",
+    "Área Científica": "IB",
+    "Créditos": 5,
+    "Ano": 3,
+    "Semestre": 2,
+    "Classificação": ""
+  }
+]

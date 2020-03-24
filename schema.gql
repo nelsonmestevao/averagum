@@ -1,0 +1,16 @@
+type UC {
+  unidade_curricular: String!,
+  area_cientifica: Area_Cientifica!,
+  creditos: Int,
+  ano: Int,
+  semestre: Int,
+  classificacao: Int
+}
+
+enum Area_Cientifica {
+  CB
+  IB
+  CC
+  QAC
+  CTE-EI
+}
