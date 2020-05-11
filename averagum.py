@@ -7,23 +7,26 @@ import argparse
 
 def parse_arguments():
     parser = argparse.ArgumentParser(
-        prog='averagum.py'
-        , description='''
+        prog="averagum.py",
+        description="""
             this description was indented weird but that is okay
-        '''
-        , epilog='''
+        """,
+        epilog="""
             Enjoy :)
-        '''
+        """,
     )
 
-    parser.add_argument('-d', '--data-path'
-                        , metavar="PATH"
-                        , help="directory data path"
-                        , type=str
-                        # , nargs=1
-                        , default='data/'
-                        , required=False
-                        )
+    parser.add_argument(
+        "-d",
+        "--data-path",
+        metavar="PATH",
+        help="directory data path",
+        type=str
+        # , nargs=1
+        ,
+        default="data/",
+        required=False,
+    )
 
     return parser.parse_args()
 
@@ -50,7 +53,7 @@ def show_results(courses_data_frame):
     print(round(courses.Classificação.describe(), 2))
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     args = parse_arguments()
     courses, weights = read_data(args.data_path)
     show_results(courses)
